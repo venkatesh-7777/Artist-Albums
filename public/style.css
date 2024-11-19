@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Music-player</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
-     <style>
-     /* CSS for the header */
+/* CSS for the header */
 *{
     background-color: #393E46;
     font-family: 'Poppins', sans-serif;
@@ -133,14 +126,3 @@ header {
   }
 
   
-
-     </style>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <div id="root"></div>
-    <script src="../src/index.js" type="text/jsx"></script>
-  </body>
-</html>
